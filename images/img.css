@@ -1,0 +1,12 @@
+img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+    color:blue;
+    background-color:aqua;
+    font-family: Arial;
+    text-align: center;
+    font-size: 100%;
+}
