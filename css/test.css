@@ -12,3 +12,38 @@
     margin: 400px;
     padding:90px;
 }
+
+
+.hyperlink:link {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hyperlink:visited{
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.hyperlink:hover{
+    color: tomato;
+    background-color:none;
+    text-decoration:none;
+}
+
+.button-link:link, .button-link:visited {
+    color:black;
+    background-color: red;
+    text-decoration: none;
+    padding: 15px 25px;
+    display: inline-block;
+
+}
+.button-link:hover{
+    color:white;
+    background-color: red;
+}
+
+ 
+  
